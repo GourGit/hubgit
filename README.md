@@ -1,5 +1,4 @@
 # hubgit
 # my first github
-# my name is lucifer
+# my name is Gour Sundar Basak 
 # I am a programmer
-# I am patla manus
